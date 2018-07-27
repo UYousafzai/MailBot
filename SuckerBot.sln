@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuckerBot", "SuckerBot\SuckerBot.csproj", "{4CE317C3-8EC9-4FCD-A2DB-65F72018057F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE317C3-8EC9-4FCD-A2DB-65F72018057F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE317C3-8EC9-4FCD-A2DB-65F72018057F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE317C3-8EC9-4FCD-A2DB-65F72018057F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE317C3-8EC9-4FCD-A2DB-65F72018057F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E550F3A9-E071-4DE5-8099-6F6E9B8846EC}
+	EndGlobalSection
+EndGlobal
