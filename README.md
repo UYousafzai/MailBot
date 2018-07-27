@@ -1,0 +1,2 @@
+# MailBot
+I created a small mailing system run by a bot in Discord using C#, it has a few fun commands like anthem to play our servers anthem :D, but besides that the major functionality is the Mailing System for admins to keep a check on mails in their server, this was merely a fun project to mess around with Discord API Wrapper for C#. Also if you're interested in FFMPEG and it's streaming code to discord, it's in there commented out so you can play around with that as well, Happy Coding :)
